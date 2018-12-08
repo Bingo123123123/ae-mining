@@ -1,0 +1,187 @@
+---
+# Pre-configured addresses of epoch nodes to contact. If not set TestNet seed peers will be used.
+peers:
+    # Mainnet seed peers
+    - "aenode://pp_5mmzrsoPh9owYMfKhZSkUihufDTB6TuayD173Ng464ukVm9xU@35.178.61.73:3015"
+    - "aenode://pp_2KWhoNRdythXAmgCbM6QxFo95WM4XXGq2pjcbKitXFpUHnPQc3@35.177.192.219:3015"
+    - "aenode://pp_2L8A5vSjnkLtfFNpJNgP9HbmGLD7ZAGFxoof47N8L4yyLAyyMi@18.136.37.63:3015"
+    - "aenode://pp_2gPZjuPnJnTVEbrB9Qgv7f4MdhM4Jh6PD22mB2iBA1g7FRvHTk@52.220.198.72:3015"
+    - "aenode://pp_frAKABjDnM3QZCUygbkaFvbd8yhv6xdufazDFLgJRc4fnGy3s@52.56.252.75:3015"
+    - "aenode://pp_tVdaaX4bX54rkaVEwqE81hCgv6dRGPPwEVsiZk41GXG1A4gBN@3.16.242.93:3015"
+    - "aenode://pp_2mwr9ikcyUDUWTeTQqdu8WJeQs845nYPPqjafjcGcRWUx4p85P@3.17.30.101:3015"
+    - "aenode://pp_FLpSUrKwgBAu5uVRnB2iWKtwGAHZckxvtCbjVPeeCA3j33t3J@52.56.66.124:3015"
+    - "aenode://pp_2CAJwwmM2ZVBHYFB6na1M17roQNuRi98k6WPFcoBMfUXvsezVU@13.58.177.66:3015"
+    - "aenode://pp_vxK2ikV9djG8MXmDnYYs338ETEsaUPweZrc2S54L3scxBfncU@13.250.190.66:3015"
+    - "aenode://pp_28si4QQ4YkjpZdo5cER7nxQodT2cMv7uNLBzUmaTkfU7EVHFH9@34.218.57.207:3015"
+    - "aenode://pp_iLdkHHPrQByhAEkAf9SoBZwH5gsbBv6UKB72nC82P5od7PMXc@34.209.38.2:3015"
+    - "aenode://pp_H4ooofyixJE6weqsgzKMKTdjZwEWb2BMSWqdFqbwZjssvtUEZ@18.217.69.24:3015"
+    - "aenode://pp_2qPAV7cYcHBK8MDo7neB2p1ow5Bmu1o56EUtnVv19ytuZ3pTtX@3.0.217.255:3015"
+    - "aenode://pp_2mWh671xYJRdzXFmJGy4M1Vhsy8y4ECadmoAcTYMw6pEGW5VCz@3.8.105.183:3015"
+    - "aenode://pp_rwTYPQY8cvFebULRnpYZ3pVqK9xhnUW41SpRWr51R1bzp4x5@3.8.30.66:3015"
+    - "aenode://pp_2eu9njAqnd2s9nfSHNCHMbw96dajSATz1rgT6PokH2Lsa531Sp@3.17.15.122:3015"
+    - "aenode://pp_SFA9D5wc9uZ2amhL7nmXSmcv4qBthKKC64RdFy5ZWGZAbSkDt@3.17.30.125:3015"
+    - "aenode://pp_21DNLkjdBuoN7EajkK3ePfRMHbyMkhcuW5rJYBQsXNPDtu3v9n@35.166.231.86:3015"
+    - "aenode://pp_RKVZjm7UKPLGvyKWqVZN1pXN6CTCxfmYz2HkNL2xiAhLVd2ho@52.11.110.179:3015"
+    - "aenode://pp_AnPnGst52qzh7ii8KUzHHFwFGiXxyF2TALhds9LPguAxJJqKd@54.214.159.45:3015"
+    - "aenode://pp_2u68ui39npbsjDVAy7Q1vBYFxfgaV3AWbXL8UB38TuKsgehHF1@52.88.74.110:3015"
+    - "aenode://pp_BPYCajukjRmJkPQ3nY4TyjPZ969aCMDqWZkZ3EDXkxJbvN2cH@35.177.165.232:3015"
+    - "aenode://pp_26SjCczbcdG49nC8wWh3ZUZna6eyF9rbpFymSc6wKyCiten1LQ@3.0.221.40:3015"
+    - "aenode://pp_2GBVGpHdZzmxA5k92RiY39RpjVNgECQRNfeFQ6z7ruJ5PPn5hH@35.177.212.38:3015"
+    - "aenode://pp_Xv6KMd1612pLWznW37s2fx79QMHGbLZuXTyFvuXRrHSNb8s5o@18.218.172.119:3015"
+    - "aenode://pp_XpZVMtsbg39Rm69aBP3m2Q245ght8MNUGN1omBr7xJmd4goxR@52.40.117.141:3015"
+    - "aenode://pp_21fv4vH2GbmL35gb6tWhwFQjMnprftuGQ4Xx97VehSM8eQdB7U@34.211.251.83:3015"
+    - "aenode://pp_sGegC48UrvDA7cvvUU3GPTze9wNUnnK1P4q46mL5jAFddNrbD@13.250.144.60:3015"
+    - "aenode://pp_io8yyDuTfCUmLkLShXvvkZEJFnfC6oVMnrS2tUygLkbbnnJxd@35.176.217.240:3015"
+    - "aenode://pp_4cHNMu9xgXE1DvDrqdaUypr1yzmwhHSUrTyT8o9u8954bYCau@18.130.106.60:3015"
+    - "aenode://pp_cVrCJWsg2vyWnRerEpLyB6ut6A8AA1MchQWAheRFNWpRWHXHJ@35.163.118.175:3015"
+    - "aenode://pp_2dWtS7LECJwjkRXQKoDP3mspdVJ4TPhwBfkiWMPSPMNYyT7jzn@3.0.12.164:3015"
+    - "aenode://pp_2aAEHdDFNbqH23HdZqu6HMtQmaE6rvLQuDZqEEWndkNbWunyuY@18.216.167.138:3015"
+    - "aenode://pp_2R7a7JHzfZQU5Ta7DJnFiqRr7ayCcAVakqYzJ2mvZj5k4ms5mV@3.17.15.239:3015"
+    - "aenode://pp_2Vi6BTNLoFyyYCmAFWxcfRAmHKfb7gWPj8p73uqb9MtW3dXEbG@3.0.86.27:3015"
+    - "aenode://pp_8nn6ypcwkaXxJfPGq7DCpBpf9FNfmkXPvGCjJFnLzvwjhCMEH@52.26.157.37:3015"
+    - "aenode://pp_zUqmdQBnJjBKjrcVgJgEJU36mjJnUT7z59p8UVp5f6vA9Taxa@3.17.17.128:3015"
+    - "aenode://pp_QkNjQbJL3Ab1TVG5GesKuZTixBdXEutUtxG677mVu9D4mMNRr@13.228.202.140:3015"
+    - "aenode://pp_2jtDgarjfr7S5NBZpBBx3fgn3wdtLb24UmiYGtVCGzF6x7Bytb@52.77.168.79:3015"    
+
+# Pre-configured addresses of epoch nodes NOT to contact
+blocked_peers:
+    - aenode://pp_2M9oPohzsWgJrBBCFeYi3PVT4YF7F2botBtq6J1EGcVkiutx3R@some-really-bad-peer-address:3015
+
+sync:
+    # Internal port used for P2P communication
+    port: 3015
+    # Port used for P2P communication
+    # Make sure this port is reachable from you public facing IP.
+    # It will be the same as the `port` option if not specified.
+    external_port: 3015
+    # The listen address should be publicly accessible
+    listen_address: 0.0.0.0
+    # Ping retry configuration in milliseconds
+    ping_interval: 30000
+    # Number of acceptors in listening pool
+    acceptors: 10
+    # Connection timeout in miliseconds
+    connect_timeout: 1000
+    # Maximum time for receiving a ping in miliseconds
+    first_ping_timeout: 30000
+    # Maximum time for noise handshake in miliseconds
+    noise_hs_timeout: 5000
+    # Maximum time for the peer to close a connection cleanly
+    close_timeout: 3000
+    # "Maximum number of inbound connections after which inbound connection are temporary (only used for a single ping)
+    max_inbound: 100
+    # The maximum number of incoming connections
+    max_inbound_hard: 1000
+    # Maximum number of outbound connections
+    max_outbound: 10
+    # If the extra outbound connections should be to nodes from different address groups (IP netmask /16)
+    single_outbound_per_group: true
+    # Maximum number of retries at resolving the host name of untrusted peers.
+    resolver_max_retries: 7
+    # Waiting time intervals (milliseconds) before each retry at resolving the host name of peers (both trusted and untrusted).
+    resolver_backoff_times: [5000, 15000, 30000, 60000, 120000, 300000, 600000]
+    # Allowed height difference from current top for incoming blocks (via gossip)
+    gossip_allowed_height_from_top: 5
+
+mempool:
+    # Number of blocks before inactive TXs are garbage collected
+    tx_ttl: 256
+    # Number of blocks before invalid (TTL or low nonce) TXs are garbage collected
+    invalid_tx_ttl: 5
+    # Mempool (re-)synchronization interval (in ms)
+    sync_interval: 1800000
+    # Maximum nonce offset accepted
+    nonce_offset: 5
+    # Maximum nonce accepted when pubkey is not present in state
+    nonce_baseline: 1
+
+http:
+    cors:
+        # List of domains allowed to access resources
+        allow_domains: ["*"]
+        # List of headers allowed to be used with requests
+        allow_headers: ["*"]
+        # List of methods allowed to be used when accessing resources
+        allow_methods: ["DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT"]
+        # Indicates for how many seconds the results of a preflight request can be cached
+        max_age: 1800
+    external:
+        # Port used for external HTTP API
+        port: 3013
+        # The external listen address should be publicly accessible
+        listen_address: 0.0.0.0
+        # Timeouts in milliseconds
+        request_timeout: 1000
+        # Less than request_timeout
+        connect_timeout: 100
+        # Number of acceptors in server pool
+        acceptors: 10
+    internal:
+        # The internal listen address should be not publicly accessible
+        listen_address: 127.0.0.1
+        port: 3113
+        # Number of acceptors in server pool
+        acceptors: 10
+
+websocket:
+    channel:
+        listen_address: 0.0.0.0
+        port: 3014
+        # Number of acceptors in channels WebSocket HTTP server pool
+        acceptors: 10
+
+keys:
+    dir: keys
+    peer_password: "graceae"
+
+chain:
+    # Write chain data to disk.
+    persist: true
+    # Chain persistence directory relative to application root
+    db_path: .
+    # Hard forks
+    hard_forks:
+      "1": 0
+
+mining:
+    # Start mining automatically.
+    autostart: true
+    # Maximum time (milliseconds) for each attempt to mine a block with a specific nonce.
+    attempt_timeout: 3600000
+    # Expected mine rate (milliseconds) between blocks. Used in governance.
+    expected_mine_rate: 180000
+    micro_block_cycle: 3000
+    # Public key of beneficiary account that will receive fees from mining on a node.
+    beneficiary: "ak_2iFz41nU1CoG5uNmF3pByenuhTaZ1qhGErBHhQzSTqHv75r2ug"
+    cuckoo:
+        miner:
+            # Executable binary of the miner.
+            executable: lean29-generic
+            # Extra arguments to pass to the miner executable binary.
+            extra_args: ""
+            # Number of bits used for representing an edge in the Cuckoo Cycle problem.
+            edge_bits: 29
+            # Hexadecimal encode the header argument that is send to the miner executable. CUDA executables expect hex encoded header.
+            hex_encoded_header: false
+            # Miner process priority (niceness) in a UNIX fashion. Higher `nice` means lower priority. Keep it unset to inherit parent process priority.
+            nice: 0
+
+logging:
+    # Controls the overload protection in the logs.
+    hwm: 50
+    # Sets the level of logging.
+    level: debug
+
+metrics:
+    # StatsD server and port
+    host: 127.0.0.1
+    port: 8125
+    reconnect_interval: 10000
+    rules:
+        - name: "ae.epoch.system.**"
+          actions: log
+        - name: "ae.epoch.aecore.**"
+          actions: log,send
+
+fork_management:
+    network_id: "ae_mainnet"
