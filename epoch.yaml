@@ -132,7 +132,7 @@ websocket:
 
 keys:
     dir: keys
-    peer_password: "graceae"
+    peer_password: "secret"
 
 chain:
     # Write chain data to disk.
@@ -152,7 +152,7 @@ mining:
     expected_mine_rate: 180000
     micro_block_cycle: 3000
     # Public key of beneficiary account that will receive fees from mining on a node.
-    beneficiary: "ak_2iFz41nU1CoG5uNmF3pByenuhTaZ1qhGErBHhQzSTqHv75r2ug"
+    beneficiary: "ak_2iFz41nU1CoG5uXXF3pByeCChTaZ1qhGDDBHhQzTQqHv75r2u1"
     cuckoo:
         miner:
             # Executable binary of the miner.
